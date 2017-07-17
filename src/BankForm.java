@@ -32,8 +32,8 @@ public class BankForm {
 
 	public static void main(String[] args) {
 		BankForm object = new BankForm();
-		object.setName("Shruti");
-		object.setLastName("Vhatte");
+		object.setName("SomeName");
+		object.setLastName("SomeNam");
 		object.setAccNumber(100);
 		//System.out.println("Name: "+object.getName()+"\n"+"LastName: "+object.getLastName()+"\nAccount Number:"+object.getAccNumber());
 		System.out.println("h");
